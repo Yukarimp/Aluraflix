@@ -1,5 +1,5 @@
 body {
-    color: black;
+    color: white;
     background: rgb(225, 225, 225);
     margin: 0px;
     font-family: "Playpen+Sans", cursive;
@@ -10,7 +10,7 @@ header {
     border-bottom: solid 4px rgb(69, 41, 78);
     padding: 15px;
     font-size: 32px;
-    color: white;
+    color: black;
 }
 
  .chamada {
